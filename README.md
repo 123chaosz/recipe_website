@@ -1,1 +1,2 @@
 # recipe_website
+this project will have me build a website that will showcase some of my favorite recipes. i will be required to create multiple website pages and link them to index.html. i will also have to provide images and some text for said recipes.
